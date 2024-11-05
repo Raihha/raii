@@ -1,3 +1,10 @@
+body{
+color: blueviolet;  
+background:purple ;
+    font-family: "Itim", cursive;
+    margin: 0px;
+    margin-bottom: 100px;
+
 .chamada{
     background-color: black(156, 156, 213);
     margin-top: 80px;
